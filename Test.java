@@ -1,10 +1,14 @@
 public class Test{
   //insert code here
   public static void main (String[] args){
-    String name = "emily";
+    String name1 = "Emily";
 
     String school = "APCS";
 
-    System.out.println(name + " is in " + school);
+    String name2 = "Andrea";
+
+    String course = "APCS";
+
+    System.out.println(name1 + " and " + name2 + " are in " + course + "!");
   }
 }
